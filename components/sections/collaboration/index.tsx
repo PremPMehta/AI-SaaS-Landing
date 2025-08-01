@@ -46,12 +46,7 @@ const Collaboration = (props: Props) => {
             <div className="m-auto flex aspect-square w-60 rounded-full border border-n-6">
               <div className="m-auto aspect-square w-24 rounded-full bg-conic-gradient p-[0.2rem]">
                 <div className="flex h-full items-center justify-center rounded-full bg-n-8">
-                  <Image
-                    src={images.launchBaseSymbol}
-                    width={48}
-                    height={48}
-                    alt="LaunchBase"
-                  />
+                  <div className="text-2xl font-bold text-white">LB</div>
                 </div>
               </div>
             </div>

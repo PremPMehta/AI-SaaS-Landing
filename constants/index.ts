@@ -3,8 +3,7 @@ export const images = {
   check: "/assets/check.svg",
   check2: "/assets/check-02.svg",
   loading1: "/assets/loading-01.svg",
-  launchBaseSymbol: "/assets/launchbase-symbol.svg",
-  launchBaseWhiteSymbol: "/assets/launchbase-symbol-white.svg",
+
   play: "/assets/play.svg",
   gradient: "/assets/gradient.png",
   smallSphere: "/assets/4-small.png",
