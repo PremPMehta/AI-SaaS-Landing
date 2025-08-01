@@ -1,7 +1,5 @@
 # LaunchBase - AI-Powered SaaS Platform
 
-![LaunchBase Platform](./public/thumbnail.png)
-
 ## 🚀 Transform Your Business with AI
 
 **LaunchBase** is a cutting-edge AI-powered SaaS platform designed to revolutionize how businesses operate, collaborate, and grow. Our comprehensive suite of intelligent tools empowers teams to work smarter, not harder, while delivering exceptional results.
