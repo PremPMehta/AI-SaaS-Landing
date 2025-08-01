@@ -1,10 +1,10 @@
-# StarForge - AI-Powered SaaS Platform
+# LaunchBase - AI-Powered SaaS Platform
 
-![StarForge Platform](./public/thumbnail.png)
+![LaunchBase Platform](./public/thumbnail.png)
 
 ## 🚀 Transform Your Business with AI
 
-**StarForge** is a cutting-edge AI-powered SaaS platform designed to revolutionize how businesses operate, collaborate, and grow. Our comprehensive suite of intelligent tools empowers teams to work smarter, not harder, while delivering exceptional results.
+**LaunchBase** is a cutting-edge AI-powered SaaS platform designed to revolutionize how businesses operate, collaborate, and grow. Our comprehensive suite of intelligent tools empowers teams to work smarter, not harder, while delivering exceptional results.
 
 ## ✨ Key Features
 
@@ -25,7 +25,7 @@
 
 ## 🎨 Modern User Experience
 
-StarForge delivers a premium user experience with:
+LaunchBase delivers a premium user experience with:
 - **Intuitive Design**: Clean, modern interface that's easy to navigate
 - **Responsive Layout**: Works perfectly on desktop, tablet, and mobile devices
 - **Smooth Animations**: Engaging interactions that enhance user engagement
@@ -51,13 +51,13 @@ StarForge delivers a premium user experience with:
 - White-label options available
 - 24/7 priority support
 
-## 🌟 Why Choose StarForge?
+## 🌟 Why Choose LaunchBase?
 
 ### 🚀 Innovation at Your Fingertips
-StarForge combines the latest AI technology with intuitive design to create a platform that adapts to your business needs.
+LaunchBase combines the latest AI technology with intuitive design to create a platform that adapts to your business needs.
 
 ### 📈 Proven Results
-Join thousands of businesses that have transformed their operations with StarForge's intelligent solutions.
+Join thousands of businesses that have transformed their operations with LaunchBase's intelligent solutions.
 
 ### 🔒 Trusted Platform
 Built with enterprise-grade security and reliability, ensuring your data is always protected.
@@ -89,6 +89,6 @@ Our dedicated team is committed to your success, providing expert guidance and s
 
 ---
 
-**StarForge** - Empowering businesses with intelligent AI solutions.
+**LaunchBase** - Empowering businesses with intelligent AI solutions.
 
 *Built with ❤️ for modern teams*

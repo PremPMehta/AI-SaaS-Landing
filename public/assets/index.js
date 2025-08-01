@@ -1,6 +1,6 @@
 import check from "./check.svg"
-import starForgeSymbol from "./starforge-symbol.svg"
-import starForgeWhiteSymbol from "./starforge-symbol-white.svg"
+import launchBaseSymbol from "./launchbase-symbol.svg"
+import launchBaseWhiteSymbol from "./launchbase-symbol-white.svg"
 import play from "./play.svg"
 import gradient from "./gradient.png"
 import smallSphere from "./4-small.png"
@@ -78,8 +78,8 @@ export {
   check,
   check2,
   loading1,
-  starForgeSymbol,
-  starForgeWhiteSymbol,
+  launchBaseSymbol,
+  launchBaseWhiteSymbol,
   play,
   gradient,
   smallSphere,

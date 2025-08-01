@@ -3,7 +3,7 @@
 import Image from "next/image"
 import Link from "next/link"
 import React, { useEffect, useState } from "react"
-import { starForgeSymbol } from "@/public/assets/index"
+
 import { cn } from "@/lib/utils"
 import { navigation } from "@/constants"
 import Button from "../atoms/button"
@@ -63,8 +63,7 @@ const Navbar = (props: Props) => {
         className={cn(`flex items-center px-5 max-lg:py-4 lg:px-7.5 xl:px-10`)}
       >
         <Link href="#hero" className={cn(`w-48 xl:mr-8 flex items-center gap-2`)}>
-          <Image src={starForgeSymbol} alt="StarForge" width={40} height={40} />
-          <p className="text-2xl font-grotesk font-extrabold tracking-wide">StarForge</p>
+          <p className="text-2xl font-grotesk font-extrabold tracking-wide">LaunchBase</p>
         </Link>
 
         <nav

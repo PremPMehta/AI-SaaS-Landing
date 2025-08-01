@@ -3,8 +3,8 @@ export const images = {
   check: "/assets/check.svg",
   check2: "/assets/check-02.svg",
   loading1: "/assets/loading-01.svg",
-  starForgeSymbol: "/assets/starforge-symbol.svg",
-  starForgeWhiteSymbol: "/assets/starforge-symbol-white.svg",
+  launchBaseSymbol: "/assets/launchbase-symbol.svg",
+  launchBaseWhiteSymbol: "/assets/launchbase-symbol-white.svg",
   play: "/assets/play.svg",
   gradient: "/assets/gradient.png",
   smallSphere: "/assets/4-small.png",
@@ -121,13 +121,13 @@ export const notificationImages = [notification4, notification3, notification2]
 
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo]
 
-export const starForgeServices = [
+export const launchBaseServices = [
   "Photo generating",
   "Photo enhance",
   "Seamless Integration",
 ]
 
-export const starForgeServicesIcons = [
+export const launchBaseServicesIcons = [
   recording03,
   recording01,
   disc02,

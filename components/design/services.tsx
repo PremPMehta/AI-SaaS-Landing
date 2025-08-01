@@ -19,7 +19,7 @@ export const Gradient = () => {
 export const PhotoChatMessage = () => {
   return (
     <div className="absolute right-8 top-8 max-w-[17.5rem] rounded-t-xl rounded-bl-xl bg-black px-8 py-6 font-code text-base lg:right-[8.75rem] lg:top-16 lg:max-w-[17.5rem]">
-      Hey StarForge, enhance this photo
+                  Hey LaunchBase, enhance this photo
       <ChatBubbleWing className="absolute bottom-0 left-full" />
     </div>
   )
@@ -31,10 +31,10 @@ export const VideoChatMessage = () => {
       Video generated!
       <div className="absolute bottom-[-1.125rem] left-5 flex size-9 items-center justify-center rounded-xl bg-color-1">
         <Image
-          src={images.starForgeWhiteSymbol}
+          src={images.launchBaseWhiteSymbol}
           width={26}
           height={26}
-          alt="StarForge"
+          alt="LaunchBase"
         />
       </div>
       <p className="tagline absolute bottom-1 right-2.5 text-[0.625rem] uppercase text-n-3">

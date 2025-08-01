@@ -47,10 +47,10 @@ const Collaboration = (props: Props) => {
               <div className="m-auto aspect-square w-24 rounded-full bg-conic-gradient p-[0.2rem]">
                 <div className="flex h-full items-center justify-center rounded-full bg-n-8">
                   <Image
-                    src={images.starForgeSymbol}
+                    src={images.launchBaseSymbol}
                     width={48}
                     height={48}
-                    alt="StarForge"
+                    alt="LaunchBase"
                   />
                 </div>
               </div>

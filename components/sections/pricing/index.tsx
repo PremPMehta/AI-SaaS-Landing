@@ -34,7 +34,7 @@ const Pricing = (props: Props) => {
         </div>
 
         <Heading
-          tag="Get started with StarForge"
+          tag="Get started with LaunchBase"
           title="Pay once, use forever"
         />
 

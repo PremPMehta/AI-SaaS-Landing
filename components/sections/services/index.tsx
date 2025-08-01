@@ -3,7 +3,7 @@
 import React, { useState } from "react"
 import Section from "@/components/layout/section"
 import Heading from "../../atoms/heading"
-import { starForgeServices, starForgeServicesIcons, images } from "@/constants"
+import { launchBaseServices, launchBaseServicesIcons, images } from "@/constants"
 import Image from "next/image"
 import Generating from "../../atoms/generating"
 import {
@@ -24,7 +24,7 @@ const Services = (props: Props) => {
       <div className="container">
         <Heading
           title="Generative AI made for creators."
-          text="StarForge unlocks the potential of AI-powered applications"
+          text="LaunchBase unlocks the potential of AI-powered applications"
         />
 
         <div className="relative">
@@ -42,10 +42,10 @@ const Services = (props: Props) => {
             <div className="relative z-1 ml-auto max-w-[17rem]">
               <h4 className="h4 mb-4">Smartest AI</h4>
               <p className="body-2 mb-12 text-n-3">
-                StarForge unlocks the potential of AI-powered applications
+                LaunchBase unlocks the potential of AI-powered applications
               </p>
               <ul className="body-2">
-                {starForgeServices.map((service, index) => (
+                {launchBaseServices.map((service, index) => (
                   <li
                     key={index}
                     className="flex items-start border-t border-n-6 py-4"
@@ -95,7 +95,7 @@ const Services = (props: Props) => {
                 </p>
 
                 <ul className="flex items-center justify-between">
-                  {starForgeServicesIcons.map((item, index) => (
+                  {launchBaseServicesIcons.map((item, index) => (
                     <li
                       key={index}
                       onClick={() => setSelectedItem(index)}
