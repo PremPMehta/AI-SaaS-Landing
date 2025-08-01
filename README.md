@@ -87,28 +87,6 @@ Our dedicated team is committed to your success, providing expert guidance and s
 - Automated response suggestions
 - Customer satisfaction tracking
 
-## 🚀 Get Started Today
-
-Ready to transform your business with AI? Start your free trial today and experience the power of StarForge.
-
-[**Start Free Trial**](#) | [**Schedule Demo**](#) | [**Contact Sales**](#)
-
-## 📞 Contact Us
-
-Have questions? Our team is here to help you succeed.
-
-- **Email**: hello@starforge.ai
-- **Phone**: +1 (555) 123-4567
-- **Support**: Available 24/7 for Enterprise customers
-
-## 🔗 Follow Us
-
-Stay updated with the latest features and insights:
-
-- [LinkedIn](https://linkedin.com/company/starforge)
-- [Twitter](https://twitter.com/starforge_ai)
-- [Blog](https://blog.starforge.ai)
-
 ---
 
 **StarForge** - Empowering businesses with intelligent AI solutions.
